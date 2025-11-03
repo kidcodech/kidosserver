@@ -1,0 +1,12 @@
+{
+  "interfaces": {
+    "physical": "veth1",
+    "veth": "kidos"
+  },
+  "dns": {
+    "blocklist": []
+  },
+  "web": {
+    "listen": "192.168.200.1:8080"
+  }
+}
